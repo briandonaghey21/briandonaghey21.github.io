@@ -1,3 +1,5 @@
 # Hello! 👋
 
-Welcome to the GitHub repo for my personal website! You can view it at: https://briandonaghey21.github.io/
+Welcome to the GitHub repo for my personal website! This website is still a WIP. 
+
+You can view it at: https://briandonaghey21.github.io/
