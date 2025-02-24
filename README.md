@@ -10,3 +10,4 @@ To Do:
 
  * Update contact info on website
  * Add projects section
+ * Navbar is annoying on the homepage in the mobile view
