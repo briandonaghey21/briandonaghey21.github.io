@@ -8,7 +8,7 @@ You can view it at: https://briandonaghey21.github.io/
 
 To Do:
 
- * Update contact info on website
  * Add projects section
- * Navbar is annoying on the homepage in the mobile view
- * make with react
+ * Add mobile view
+ * Add about me in the react version
+   
