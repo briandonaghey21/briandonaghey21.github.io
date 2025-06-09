@@ -18,7 +18,7 @@ function App() {
             I am a Computer Science graduate from the <b>University of Pittsburgh</b> where I graduated with Magna Cum Laude and departmental honors within my major.
             My primary interests lie in <b>full-stack</b> and <b>back-end</b> development. More specifically, I am passionate about
             <b> software development, data engineering, software quality assurance, database management, and artificial intelligence</b>.
-            With graduation approaching, I am currently seeking full-time roles in a position where I am challenged and actively learning new things every day.
+            I am currently seeking full-time roles in a position where I am challenged and actively learning new things every day.
           </p>
 
           <div className="nav-cards">
